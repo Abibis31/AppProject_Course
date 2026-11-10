@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\AppProject.Core.Controllers.General\AppProject.Core.Controllers.General.csproj" />
+    <ProjectReference Include="..\AppProject.Core.Services\AppProject.Core.Services.csproj" />
+    <ProjectReference Include="..\AppProject.Exceptions\AppProject.Exceptions.csproj" />
+    <ProjectReference Include="..\AppProject.Resources\AppProject.Resources.csproj" />
+    <ProjectReference Include="..\AppProject.Utils\AppProject.Utils.csproj" />
+  </ItemGroup>
+</Project>
